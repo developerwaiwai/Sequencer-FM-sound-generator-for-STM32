@@ -1,0 +1,5 @@
+/dev/tty.usbmodem14203,57600,opa_drum_test_16.csv,Kick.csv,Snare.csv
+/dev/tty.usbmodem13103,38400,opaopa_lead2.csv,Lead.csv
+/dev/tty.usbmodem13203,38400,opaopa_code1.csv,SoundColor.csv
+/dev/tty.usbmodem13303,38400,opaopa_code2.csv,SoundColor.csv
+/dev/tty.usbmodem13403,38400,opaopa_base2.csv,SlapBase.csv
